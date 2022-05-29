@@ -14,7 +14,8 @@ Here i have used two different datasets <br/>
 
 # Algorithms Used 
 i have used Count Vectorisation Cosine Similarity Algorithms which is suggesting movies on the basis of tags and popularity.<br/>
-Indirectly  It is recommwnding movies in the basis of searching first and then Sorting..<br/>
+Indirectly  It is recommwnding movies in the basis of searching first and then Sorting.. <br/>
+
 CountVectorizer is used to convert a collection of text documents to a vector of term/token counts. It also enables the pre-processing of text data prior to generating the vector representation. This functionality makes it a highly flexible feature representation module for text.<br/>
 
 Cosine similarity is a metric used to measure how similar two items are. Mathematically it calculates the cosine of the angle between two vectors projected in a multidimensional space. Cosine similarity is advantageous when two similar documents are far apart by Euclidean distance(size of documents) chances are they may be oriented closed together. The smaller the angle, higher the cosine similarity<br/>
