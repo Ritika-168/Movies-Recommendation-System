@@ -7,8 +7,8 @@ i have used Count Vectorisation Cosine Similarity Algorithm which is suggesting 
 Indirectly  It is recommwnding movies in the basis of searching first and then Sorting..
 
 Check out the url for demo -- https://movies-recommending.herokuapp.com/
-## Technologies Used
-Python
+#### Technologies Used
+Python <br/>
 Frameworks and Library
 Numpy 
 Pandas
